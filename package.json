@@ -11,5 +11,8 @@
     "url": "leapYear"
   },
   "author": "Blake Netzeband",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
